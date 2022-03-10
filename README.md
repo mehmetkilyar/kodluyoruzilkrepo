@@ -3,7 +3,7 @@ Kodluyoruz Egitimi kapsaminda actigim ilk repo
 
 Bu repo [Kodluyoruz] (http://www.kodluyoruz.org) Front-End Egitiminde olusturdugumuz ilk repo. Icerisinde bir adet README dosyasi, bir adet de index.html barindiriyor.
 
-##Installation
+## Installation
 
 Oncelikle projeyi clonelayin. https://github.com/mehmetkilyar/kodluyoruzilkrepo.git
 
@@ -11,7 +11,7 @@ Oncelikle projeyi clonelayin. https://github.com/mehmetkilyar/kodluyoruzilkrepo.
 git clone https://github.com/mehmetkilyar/kodluyoruzilkrepo.git
 '''
 
-##Usage
+## Usage
 
 Projeyi cloneladiktan sonra Visual Studio Code programinda aciniz.
 
@@ -22,10 +22,10 @@ cd kodluyoruzilkrepo
 code .
 '''
 
-##Contrubuting
+## Contrubuting
 Pull requestler kabul edilir. Buyuk degisiklikler icin, lutfen once neyi degistirmek istediginizi tartismak icin bir konu aciniz.
 
-##License
+## License
 
 [MIT] (http://google.com)
 
